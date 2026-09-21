@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 💬 Ask a Question / General Discussions
+    url: https://github.com/orgs/3TLabs/discussions
+    about: Ask questions, share ideas, and connect with the 3T Labs community.
+  - name: 🔒 Report a Security Vulnerability
+    url: https://github.com/3TLabs/.github/blob/main/SECURITY.md
+    about: Privately report security concerns and vulnerabilities.
